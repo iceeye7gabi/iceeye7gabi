@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iceeye7gabi
+- 👋 Hi, I’m Constantinescu George-Gabriel aka @iceeye7gabi
 - 👀 I’m interested in Software Engineering, AR/VR Development and Game Dev/Game Design
 - 🌱 I’m currently attending Faculty Of Computer Science, UAIC, Master degree in Computer Science
 
