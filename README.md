@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Constantinescu George-Gabriel aka @iceeye7gabi
-- 🌱 Founder of Mixed Reality Research Group, the Faculty of Computer Science @ UAIC, Iasi Romania
+- 🌱 Founder of Mixed Reality Research Group, Faculty of Computer Science @ UAIC, Iasi Romania
 - 😎 DevOps @ Bandwidth
 - 👀 Teaching Assistant at Faculty of Computer Science, UAIC Iasi, Romania
 - 👀 I’m interested in AR/VR Development, Software Engineering and Game Dev/Game Design
