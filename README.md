@@ -3,7 +3,7 @@
 - 😎 DevOps @ Bandwidth
 - 👀 Teaching Assistant at Faculty of Computer Science, UAIC Iasi, Romania
 - 👀 I’m interested in AR/VR Development, Software Engineering and Game Dev/Game Design
-- 😎 Expertise in XR R&D, SWE, Advanced Programming, Game Dev/Design, Databases, Data Structures and Graph Theory   
+- 😎 Expertise in XR R&D, Game Dev/Design, DevOps, SWE, Advanced Programming, Databases, Data Structures and Graph Theory   
 - 🤠 Dota2 enthusiast
 
 <!---
